@@ -13,7 +13,7 @@ FullStack Developer. Currently developing high-performance REST projects and API
   <img align="center" alt="Mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Axios" height="30" width="40" src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg">
+  
    
 </div>
 
